@@ -2,14 +2,21 @@
 
 Level: <i>Avid Ant</i>
 
-Hello there and welcome to VI!
+> Describe the levels of difficulties or whatever
 
-<strong>Goal:</strong> The newbie will have a basic understanding of our Manifesto, Biotope and will know the first steps of his Roadmap.
+Hello there and welcome to VI! First of all you will learn some ideas and facts, which we rely in our community.
+
+> More Introductions
+
+## Goal
+
+The newbie will have a basic understanding of our Manifesto, Biotope and will know the first steps of his Roadmap.
+
+> The goal as a own topic
 
 ## Preparation
 
 In your first chapter you'll learn about our Developer-Manifesto, the history and vision of Biotope and you'll setup the first steps of your Roadmap with your mentor!
-
 
 ## Resources
 
@@ -17,6 +24,8 @@ http://manifest-dev.virtual-identity.com/
 https://github.com/biotope/meeting-notes/blob/biotopeVision/biotope/2018-06-05_biotopeVision.md
 
 Welcome to Virtual Identity, i'll be your guide.
+
+> to much welcomes
 
 ## Our Vision
 
@@ -37,6 +46,7 @@ We imagine three pillars:
 
 Some examples to illustrate what we could actually implement
 
+> Why is the following tabel integrated? I wouldn't show that.
 
 <table cellPadding="5" style="tableLayout: 'fixed'; border: 1 + 'px'; borderColor: 'black'; borderStyle: 'solid'; borderCollapse: 'collapse';">
   <colgroup>
@@ -88,6 +98,8 @@ Some examples to illustrate what we could actually implement
 
 __Every new frontend developer is able to implement components in our Biotope projects, in compliance with our VI standards__
 
+> Was that the overall goal? Its pretty invisible and should be more presentable on an own Roadmap and Goals Page.
+
 Which includes
 - knowing our common standards and
 - having mastered the technical basics
@@ -98,6 +110,8 @@ Please keep in mind. This roadmap will allways be work in progress. We want this
 Duration
 
 more or less 13 weeks (= 3 months)
+
+> Duration and Goal should be better formated
 
 <table cellPadding="5" style="tableLayout: 'fixed'; border: 1 + 'px'; borderColor: 'black'; borderStyle: 'solid'; borderCollapse: 'collapse'">
   <tbody>
@@ -317,6 +331,10 @@ more or less 13 weeks (= 3 months)
     </tr>
   </tbody>
 </table>
+
+> wouldnt use a table on that point. And the roadmap isnt self explained. 
+
+> would add durations for each point so the dev has an orientation how long some parts will take
 
 ## Tools
 

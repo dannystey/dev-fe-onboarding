@@ -1,4 +1,7 @@
 # Fundamentals I: HTML Semantics, Layout and Styling
+
+> Should be seperated in diffrent Challenges. Otherwise it could be overwhelming 
+
 Level: *Busy Blackbird*
 
 You have already learned about our Manifesto, Biotope and have an overview of the first steps of this Roadmap.
@@ -32,6 +35,8 @@ With your git client, clone the new repository from github with `git clone` to g
 #### Get HTML5 Boilerplate
 Download the HTML5 Boilerplate and extract it into your empty local repository.
 Commit and push it into the repository with git.
+
+> Would explain and show some first commands to get familiar with git?
 
 ### Questions
 - What's Git?
@@ -162,6 +167,8 @@ Fix the reported validation errors in your HTML code.
 - How can you place two block elements side by side?
 - What is CSS box-model?
 - What is CSS flex-box? When do you use it?
+
+> Could be a google form with all questions on it?
 
 <br/>
 
