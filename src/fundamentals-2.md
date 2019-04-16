@@ -63,6 +63,8 @@ Now that all the necessary packages are installed, you can run the command `npm 
 
 Now that everything is set up, you are ready to code once again! In the previous chapter, you built a static website with HTML and CSS, mainly focussing on structure and layout. In this chapter, you will learn to use SCSS in combination with BEM to give your stylesheets an underlying naming system, which will give your code even more structure and prepare you to build components in biotope later on.
 
+?> *TODO* describe the diffrence between `SASS` and `SCSS`
+
 ### Challenge
 
 Build a so called 'call to action', consisting of a image, text and button. The component has 2 modifiers: red headline and secondary conversion, which has a completely different layout and look (see the screen below for reference).
@@ -87,11 +89,15 @@ Build a so called 'call to action', consisting of a image, text and button. The 
 - Can you use unmodified SASS code in web browsers?
 - What is a mixin?
 
+
+?> *TODO* Would ask `Can you use SASS code in web browsers?` or `Can you use not compiled SASS code in web browsers?`
 ---
 
 ## JavaScript
 
 'Finally', is what you're thinking to yourself probably. Yes, now we're getting into the good stuff. Up until now, everything you have coded is more or less 'static'. Well, that changes now. In this section, you will get to Javascript, it's newest version ECMAScript2015 (also called ES6) and, to a lesser extent, jQuery. We here at VI try to write our code in ES6 whenever possible. jQuery, while it used to be the standard and provides a lot of functionality that makes our lives easier, is being used less and less and it's more than likely that it will completely die eventually. That is why coding in 'plain' JS is always preferred.
+
+?> *TODO* ~~ECMAScript2015 (also called ES6)~~ __ESNext (2016 / 2017)__
 
 ### Challenge
 
@@ -105,6 +111,7 @@ Add the following functionality to the component, that you built in the section 
 - To debug, use the tools that you are provided with (*hint* Chrome dev tools *hint*)
 - There's more than one way to skin a cat.. uhhh animate. CSS, jQuery and Javascript can all do this, ask your buddy for help!
 
+?> *TODO* Does the Community rely on jQuery? 
 
 ### Resources
 

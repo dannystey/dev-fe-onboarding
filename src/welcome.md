@@ -12,4 +12,8 @@ We wish you a lot of fun working with us!
 
 ?> *TODO* Would integreate a FAQ Section or more Notes for describing the context
 
+?> *SUGGESTION* Badge System for each level or challenge   
+
+?> *TODO* Could add [medium-zoom](https://docsify.now.sh/plugins?id=zoom-image)
+
 <team-component></team-component> 

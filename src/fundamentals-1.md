@@ -2,6 +2,8 @@
 
 ?> *TODO* Would structure the page in diffrent Challenges. Otherwise it could be overwhelming 
 
+?> *TODO* 
+
 Level: *Busy Blackbird*
 
 You have already learned about our Manifesto, Biotope and have an overview of the first steps of this Roadmap.
@@ -36,7 +38,7 @@ With your git client, clone the new repository from github with `git clone` to g
 Download the HTML5 Boilerplate and extract it into your empty local repository.
 Commit and push it into the repository with git.
 
-> Would explain and show some first commands to get familiar with git?
+?> *TODO* Would explain and show some first commands to get familiar with git?
 
 ### Questions
 - What's Git?
@@ -86,6 +88,7 @@ Other page content shown here will be created later and is not yet part of this 
 |-----------------------------------------------------------|-----------------------------------------------------------|
 | ![header.png](./assets/fundamentals-1/screens/header.png) | ![footer.png](./assets/fundamentals-1/screens/footer.png) |
 
+?> *TODO* the task isn't defined. What does `basic CSS` mean in this context? It would be helpfull to have more context anyway.
 
 ---------------------------------------
 
@@ -96,6 +99,8 @@ In this challenge you will learn how to structure content in html documents and 
 - Use HTML5 semantic sectioning elements to structure the content
 - Correctly use HTML headlines h1 - h6
 - Validate your HTML code!
+
+?> *TODO* Hints and Guidelines is not very helpful. yes of course the points are important but there are a lot of things to care for semantic html. So maybe the points should be placed as requirements for the task itself.
 
 ### Resources
 - HTML5 Standard on Sectioning Elements: [chapter 4.3 through 4.3.10](https://www.w3.org/TR/html5/sections.html#sections)
@@ -121,7 +126,10 @@ Add HTML5 compliant headlines and sections to structure the content of your page
 #### Inner values matter!
 Add dummy text and image content to your page, you can use dummy text and image generators for that.
 With latter you can easily create dummy images like this:
+
 <img src="https://dummyimage.com/320x180/eef1f5/0b5fff" alt="320x180" />
+
+?> *TODO* with: `<img src="https://dummyimage.com/320x180/eef1f5/0b5fff" alt="320x180" />`
 
 #### Add some Teasers to turn them on!
 
@@ -170,7 +178,7 @@ Fix the reported validation errors in your HTML code.
 - What is CSS box-model?
 - What is CSS flex-box? When do you use it?
 
-> Could be a google form with all questions on it?
+?> *SUGGESTION* Could be a google form with all questions on it?
 
 <br/>
 
@@ -178,6 +186,8 @@ Fix the reported validation errors in your HTML code.
 
 ## Navigation
 In this Challenge you will learn how to build an accessible navigation and add the correct semantic elements and attributes.
+
+?> *TODO* Short paragraph to give the future dev a summary of the topic
 
 ### Hints and Guidelines
 - Use HTML5 semantic elements to markup a navigation section
@@ -217,6 +227,8 @@ And if you want to really judge a frontend web developer: just take his or her i
 - How can you add semantic meaning to any HTML elements?
 - Why should semantic attributes be added to html elements?
 
+?> *TODO* the topic gives an introduction to ARIA ... there could be more questions about it.
+
 ---------------------------------------
 
 ## Responsive Webdesign
@@ -225,6 +237,8 @@ In this challenge you will learn how to implement a responsive web page.
 ### Hints and Guidelines
 - Implement fluid design if possible
 - Use media queries for breakpoints if required
+
+?> *TODO* fluid design is possible... so maybe it should be a requirement
 
 ### Resources
 - Short introduction to the viewport meta tag: https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
@@ -248,6 +262,7 @@ import all768 from './assets/fundamentals-1/screens/all-768.png'
 import all1024 from './assets/fundamentals-1/screens/all-1024.png'
 import all1600 from './assets/fundamentals-1/screens/all-1600.png'
 
+?> *TODO* should be deleted
 
 | 320px                                                                         | 480px                                                                         | 600px                                                                         |
 |-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
@@ -269,6 +284,8 @@ import all1600 from './assets/fundamentals-1/screens/all-1600.png'
 
 ## SVG Sprites
 In this task you will learn what SVG sprites are and how to use them.
+
+?> *TODO* Would place that part below `Page Layout`. 
 
 ### Hints and Guidelines
 1. Use SVG sprites instead of icon fonts
@@ -293,6 +310,7 @@ Create the document list component with SVG sprites. Based on the document typ a
 - What are SVG sprites and how do you use them?
 - What are the advantages of SVG sprites compared to icon fonts and pixel graphics?
 
+?> *TODO* add more questions... like how does IE11 handle SVGs? What are the advantages of SVG in general?
 
 <authors-component v-bind:authors="[
     {

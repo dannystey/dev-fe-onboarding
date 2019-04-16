@@ -16,6 +16,8 @@ Level: *Labour-saving Ladybug*
 3. **APIs**: Handle API Calls over HTTP
     - Fetch data from a real API
 
+?> *TODO* Wouldnt write `Don't care about IE11` When you have to support IE11 in real project!
+
 ## Resources
 
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
