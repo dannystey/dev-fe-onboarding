@@ -1,6 +1,6 @@
 # Fundamentals I: HTML Semantics, Layout and Styling
 
-> Should be seperated in diffrent Challenges. Otherwise it could be overwhelming 
+?> *TODO* Would structure the page in diffrent Challenges. Otherwise it could be overwhelming 
 
 Level: *Busy Blackbird*
 
@@ -49,6 +49,8 @@ Commit and push it into the repository with git.
 - What's the difference between Git and Github?
 
 <br/>
+
+?> *TODO* More helpful git information. Therefore is already a pull request created. [PR](https://github.com/virtualidentityag/dev-fe-onboarding/pull/43)
 
 ---------------------------------------
 
